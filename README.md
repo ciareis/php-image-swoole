@@ -1,4 +1,1 @@
-# ENVS
-
-SWOOLE_VERSION=4.7.1
-
+# Image php with swoole and postgres
